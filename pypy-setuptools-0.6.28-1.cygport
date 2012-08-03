@@ -1,0 +1,6 @@
+ORIG_PN="distribute"
+inherit pypy-distutils
+
+CATEGORY="Python"
+SUMMARY="PyPy package management tool"
+DESCRIPTION="PyPI Python eggs package management tool"
